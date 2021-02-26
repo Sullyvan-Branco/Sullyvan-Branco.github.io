@@ -521,7 +521,7 @@ footer .fab {
   max-height: 300px;
   max-width: 425px; 
   position: absolute;
-  left: 15%;
+  left: 25%;
   transform-origin: 50% 50% -500px;
   outline:1px solid transparent;
 
