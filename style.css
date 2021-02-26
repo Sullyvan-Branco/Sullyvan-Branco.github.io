@@ -1064,7 +1064,7 @@ div#carousel ~ span {
     width: 70px;
     height: 70px;
     border-radius:50%;
-    margin-right:3rem;
+    margin-left:3rem;
   }
   footer .reseaux {
     display: -webkit-box;
