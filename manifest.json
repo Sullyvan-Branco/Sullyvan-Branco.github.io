@@ -1,0 +1,16 @@
+{
+ "short_name": "Sullyvan.Branco",
+ "name": "CV Sullyvan BRANCO",
+ "icons": [
+ {
+ "src": "images/logo.png",
+ "sizes": "256x256",
+ "type": "image/png"
+ }
+ ],
+ "theme_color": "#EFEFEF",
+ "background_color": "#EFEFEF",
+ "start_url": "index.html",
+ "display": "standalone",
+ "orientation": "portrait"
+ }
