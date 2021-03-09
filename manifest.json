@@ -1,5 +1,5 @@
 {
-  "lang": "fr";
+  "lang": "fr",
  "short_name": "Sullyvan.Branco",
  "name": "CV Sullyvan BRANCO",
  "icons": [
@@ -13,6 +13,6 @@
  "background_color": "#EFEFEF",
  "start_url": "index.html",
  "display": "standalone",
- "orientation": "portrait"
+ "orientation": "portrait",
  "url": "http://sullyvan-branco.github.io/"
  }
