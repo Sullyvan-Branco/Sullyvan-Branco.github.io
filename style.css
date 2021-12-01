@@ -810,6 +810,7 @@ div#carousel ~ span {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+	flex-direction: column;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
     -webkit-box-pack: center;
